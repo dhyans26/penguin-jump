@@ -118,6 +118,7 @@ offset_bottom = 1793.0
 texture = ExtResource("1_fx2v1")
 
 [node name="TextureRect" type="TextureRect" parent="TextureRect/TextureRect/TextureRect/TextureRect"]
+layout_mode = 0
 offset_left = 3614.0
 offset_right = 7228.11
 offset_bottom = 1793.0
